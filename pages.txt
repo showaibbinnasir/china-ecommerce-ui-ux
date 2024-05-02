@@ -1,0 +1,6 @@
+1. Login and Signup page
+2. Home Page
+3. Category wise products
+4. Product Details
+5. Cart Page
+6. Payment Page
